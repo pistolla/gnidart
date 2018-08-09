@@ -1005,5 +1005,55 @@
     "reviews": "52",
     "isbn10": "0471023264",
     "isbn13": "978-0471023265"
+  },
+  {
+    "hash": "9e5b6523ccf49161dc0543cd0bfe3f8b01b813a48de19bf7db91b642c308deaf",
+    "title": "Day Trading the Currency Market: Technical and Fundamental Strategies To Profit from Market Swings",
+    "edition": "",
+    "year": "2005",
+    "rating": "3.8",
+    "reviews": "47",
+    "isbn10": "0471717533",
+    "isbn13": "978-0471717539"
+  },
+  {
+    "hash": "7478150e8ca779727259792312c1939ab7e256feeeb5ec0a3feba36e7a64a29c",
+    "title": "How to Make a Living Trading Foreign Exchange: A Guaranteed Income for Life",
+    "edition": "1",
+    "year": "2010",
+    "rating": "3.6",
+    "reviews": "29",
+    "isbn10": "0470442298",
+    "isbn13": "978-0470442296"
+  },
+  {
+    "hash": "d1d463e44c42ba7d46d644039911cee7fa9a4790ed3e65724503a09f59b1211e",
+    "title": "A Complete Guide To Volume Price Analysis",
+    "edition": "1",
+    "year": "2013",
+    "rating": "4.5",
+    "reviews": "383",
+    "isbn10": "1491249390",
+    "isbn13": "978-1491249390"
+  },
+  {
+    "hash": "711cb87c3ae375b8cc8d5c94f6cb407f9ec15f0d60ee2474e4dc09962de012ce",
+    "title": "Understanding Price Action: Practical Analysis of the 5-Minute Time Frame",
+    "edition": "",
+    "year": "2014",
+    "rating": "4.2",
+    "reviews": "47",
+    "isbn10": "908227860X",
+    "isbn13": "978-9082278606"
+  },
+  {
+    "hash": "dd90b8fdcb4ea05fea986c78cd343b561adec483a374a01795c038f6087368f7",
+    "title": "The Little Book of Currency Trading: How to Make Big Profits in the World of Forex",
+    "edition": "1",
+    "year": "2010",
+    "rating": "3.8",
+    "reviews": "42",
+    "isbn10": "047077035X",
+    "isbn13": "978-0470770351"
   }
 ]
